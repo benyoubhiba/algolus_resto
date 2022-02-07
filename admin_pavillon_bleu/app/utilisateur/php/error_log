@@ -1,0 +1,2 @@
+[14-Mar-2019 11:21:00 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/croncfyr/fcpo.ma/wewebcom/developpeurs/h.soumia.dev6/gc-terrasses/admin_gc_terrasses/app/utilisateur/php/traitement-user.php on line 6
+[14-Mar-2019 11:21:00 Europe/Paris] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/croncfyr/fcpo.ma/wewebcom/developpeurs/h.soumia.dev6/gc-terrasses/admin_gc_terrasses/app/utilisateur/php/traitement-user.php on line 6
